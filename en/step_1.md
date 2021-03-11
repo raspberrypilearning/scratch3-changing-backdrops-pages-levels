@@ -1,59 +1,35 @@
-## Introduction
+## Changing backdrops to create pages or levels
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can use backdrops in a Scratch projects to create different pages or levels.
 
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Click on the Stage pane and then the Backdrops tab to view the backdrops for your project. You can drag the backdrops to reorder them.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![Backdrops in order](images/backdrops-in-order.png)
 
-+ A computer or tablet capable of running Scratch 3
+There are lots of ways to move to the `next backdrop`, choose one that works for your project.
 
-### Software
+```blocks3
+when [space v] key pressed
+next backdrop
+```
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+```blocks3
+when stage clicked // click on the Stage
+next backdrop
+```
 
-### Downloads
+```blocks3
+when this sprite clicked // click on a button or object sprite
+next backdrop
+```
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+```blocks3
+when backdrop switches to [page1 v]
+wait [5] seconds
+next backdrop
+```
