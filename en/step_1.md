@@ -11,7 +11,7 @@ Click on the Stage pane and then the Backdrops tab to view the backdrops for you
 
 ![Backdrops in order](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`, choose one that works for your project.
+There are lots of ways to move to the `next backdrop`{:class="block3looks"}, choose one that works for your project.
 
 ```blocks3
 when [space v] key pressed
