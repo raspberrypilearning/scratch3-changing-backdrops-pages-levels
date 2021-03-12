@@ -1,5 +1,3 @@
-## Changing backdrops to create pages or levels
-
 You can use backdrops in a Scratch projects to create different pages or levels.
 
 **Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
