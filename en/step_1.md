@@ -22,7 +22,7 @@ next backdrop
 ```
 
 ```blocks3
-when this sprite clicked // click on a button or object sprite
+when this sprite clicked // click on a sprite
 next backdrop
 ```
 
