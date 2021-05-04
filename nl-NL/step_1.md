@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Je kunt achtergronden in een Scratch-project gebruiken om verschillende pagina's of niveaus te maken.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Leer achtergrond aanpassen**: [Klik hier](https://scratch.mit.edu/projects/498966268/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+Klik op het Speelveld en vervolgens op het **Achtergronden** tabblad om de achtergronden voor jouw project te bekijken. Je kunt de achtergronden slepen om ze op een andere plek te zetten.
 
-![The backdrops in order.](images/backdrops-in-order.png)
+![De achtergronden in de goede volgorde.](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+Er zijn veel manieren om naar de `volgende achtergrond`{:class="block3looks"} te gaan. Kies er een die bij jouw project past.
 
 ```blocks3
 when [space v] key pressed
