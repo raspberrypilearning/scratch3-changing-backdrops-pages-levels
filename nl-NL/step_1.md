@@ -1,6 +1,6 @@
 Je kunt achtergronden in een Scratch-project gebruiken om verschillende pagina's of niveaus te maken.
 
-**Leer achtergrond aanpassen**: [Klik hier](https://scratch.mit.edu/projects/498966268/editor){:target="_ blank"}
+**Leer achtergrond aanpassen**: [Klik hier](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
