@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+يمكنك استخدام الخلفيات في مشروع سكراتش لإنشاء صفحات أو مستويات مختلفة.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**تغيير البرنامج التعليمي للخلفية**: [انظر في الداخل](https://scratch.mit.edu/projects/498966268/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+انقر فوق جزء المنصة ثم **الخلفيات** لعرض الخلفيات الخاصة بمشروعك. يمكنك سحب الخلفيات لإعادة ترتيبها.
 
-![The backdrops in order.](images/backdrops-in-order.png)
+![الخلفيات بالترتيب.](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+هناك العديد من الطرق `للانتقال إلى الخلفية`{: class = "block3looks"}. اختر واحدًا يناسب مشروعك.
 
 ```blocks3
 when [space v] key pressed
