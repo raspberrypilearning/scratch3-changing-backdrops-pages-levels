@@ -1,13 +1,13 @@
-There are lots of ways to switch to the next backdrop in Scratch
+هناك العديد من الطرق للتبديل إلى الخلفية التالية في سكراتش
 
-Click on the Stage
+انقر على المنصة
 
-Click the space bar (or just click the stage again if you are on a tablet)
+انقر فوق شريط المسافة (أو انقر فوق الجزء الرئيسي مرة أخرى إذا كنت تستخدم جهازًا لوحيًا)
 
-Click on a sprite (the corner)
+انقر فوق كائن (الزاوية)
 
-Just wait and the backdrop will change
+فقط انتظر وستتغير الخلفية
 
-How will you make the backdrop change?
+كيف ستجعل الخلفية تتغير؟
 
-Click on a sprite
+انقر على كائن
