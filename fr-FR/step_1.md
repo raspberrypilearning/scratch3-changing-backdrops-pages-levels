@@ -7,7 +7,7 @@ Tu peux utiliser des arrière-plans dans un projet Scratch pour créer différen
 
 Clique sur le volet Scène, puis sur l' **arrière-plan** pour afficher les arrière-plans de ton projet. Tu peux faire glisser les arrière-plans pour les réorganiser.
 
-![Les arrière-plans dans l'ordre.](images/backdrops-in-order.png)
+![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
 
 Il existe de nombreuses façons de passer à l'`arrière-plan suivant`{:class="block3looks"}. Choisis celui qui convient à ton projet.
 
