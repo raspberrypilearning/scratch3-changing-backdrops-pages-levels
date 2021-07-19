@@ -7,7 +7,7 @@
 
 انقر فوق جزء المنصة ثم **الخلفيات** لعرض الخلفيات الخاصة بمشروعك. يمكنك سحب الخلفيات لإعادة ترتيبها.
 
-![الخلفيات بالترتيب.](images/backdrops-in-order.png)
+![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
 
 هناك العديد من الطرق `للانتقال إلى الخلفية`{: class = "block3looks"}. اختر واحدًا يناسب مشروعك.
 
