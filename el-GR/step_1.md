@@ -7,7 +7,7 @@ You can use backdrops in a Scratch project to create different pages or levels.
 
 Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
 
-![The backdrops in order.](images/backdrops-in-order.png)
+![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
 
 There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
 
