@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Scratchでは、背景を使ってべつのページやレベルを作ることができます。
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**背景の切りかえ方**: [中を見る](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+右の角にある「ステージ」をクリックしてから**背景**タブをクリックすると、プロジェクトに使われている背景を見ることができます。 背景をドラッグするとならべかえることができます。
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![背景タブに順番 (じゅんばん) に ならんでいる背景](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+`次の背景にする`{:class="block3looks"}には、いろいろなやり方があります。 プロジェクトに合ったやりかたをえらんでください。
 
 ```blocks3
 when [space v] key pressed
