@@ -1,13 +1,13 @@
-There are lots of ways to switch to the next backdrop in Scratch
+Scratchでは、いろいろなやり方で次の背景に切りかえることができます
 
-Click on the Stage
+ステージをクリックしてください
 
-Click the space bar (or just click the stage again if you are on a tablet)
+スペースバーをおしてください（タブレットを使用している場合は、ステージをもう一度タッチしてください）
 
-Click on a sprite (the corner)
+右の角にあるスプライトをクリックしてください
 
-Just wait and the backdrop will change
+少し待つと背景がかわります
 
-How will you make the backdrop change?
+君だったらどうやって背景をかえますか？
 
-Click on a sprite
+スプライトをクリックしてください
