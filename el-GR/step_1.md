@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Μπορείς να χρησιμοποιήσεις υπόβαθρα σε ένα έργο Scratch για να δημιουργήσεις διαφορετικές σελίδες ή επίπεδα.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Οδηγίες αλλαγής υποβάθρου**: [Δες εδώ](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+Κάνε κλικ στο παράθυρο Σκηνή και στη συνέχεια στην καρτέλα **Υπόβαθρα** για να δεις τα υπόβαθρα για το έργο σου. Μπορείς να σύρεις τα υπόβαθρα για να τα αναδιατάξεις.
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![Τα σκηνικά σε διάταξη στην καρτέλα Υπόβαθρο.](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+Υπάρχουν πολλοί τρόποι μετάβασης στο `επόμενο υπόβαθρο`{:class="block3looks"}. Επίλεξε ένα που να ταιριάζει στο έργο σου.
 
 ```blocks3
 when [space v] key pressed
