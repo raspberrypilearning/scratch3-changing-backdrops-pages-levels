@@ -1,13 +1,13 @@
-There are lots of ways to switch to the next backdrop in Scratch
+Υπάρχουν πολλοί τρόποι μετάβασης στο επόμενο υπόβαθρο στο Scratch
 
-Click on the Stage
+Κάνε κλικ στο σκηνικό
 
-Click the space bar (or just click the stage again if you are on a tablet)
+Κάνε κλικ στο πλήκτρο διαστήματος (ή απλώς κάνε ξανά κλικ στο σκηνικό εάν χρησιμοποιείς tablet)
 
-Click on a sprite (the corner)
+Κάνε κλικ σε έναν χαρακτήρα (τη γωνία)
 
-Just wait and the backdrop will change
+Απλώς περίμενε και το υπόβαθρο θα αλλάξει
 
-How will you make the backdrop change?
+Πώς θα αλλάξεις το υπόβαθρο;
 
-Click on a sprite
+Κάνε κλικ σε έναν χαρακτήρα
