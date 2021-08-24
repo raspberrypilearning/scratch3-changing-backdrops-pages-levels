@@ -1,13 +1,13 @@
 Je kunt achtergronden in een Scratch-project gebruiken om verschillende pagina's of niveaus te maken.
 
-**Leer achtergrond aanpassen**: [Klik hier](https://scratch.mit.edu/projects/528188490/editor){:target="_blank"}
+**Leer achtergrond aanpassen**: [Klik hier](https://scratch.mit.edu/projects/563148167/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528188490/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/563148167/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Klik op het Speelveld en vervolgens op het **Achtergronden** tabblad om de achtergronden voor jouw project te bekijken. Je kunt de achtergronden slepen om ze op een andere plek te zetten.
 
-![De achtergronden in de goede volgorde.](images/backdrops-in-order.png)
+![De achtergronden op volgorde in het tabblad Achtergronden.](images/backdrops-in-order.png)
 
 Er zijn veel manieren om naar de `volgende achtergrond`{:class="block3looks"} te gaan. Kies er een die bij jouw project past.
 
