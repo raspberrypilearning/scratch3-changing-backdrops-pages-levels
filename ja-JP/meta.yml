@@ -1,0 +1,10 @@
+---
+title: 背景 (はいけい) を使ってページやレベルを作る
+hero_image: images/banner.png
+description: Scratchには、背景をへんこうして次のページやレベルに切りかえる方法がたくさんあります
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-11"
+steps:
+  - title: 背景を使ってページやレベルを作る
