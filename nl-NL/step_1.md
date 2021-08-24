@@ -7,7 +7,7 @@ Je kunt achtergronden in een Scratch-project gebruiken om verschillende pagina's
 
 Klik op het Speelveld en vervolgens op het **Achtergronden** tabblad om de achtergronden voor jouw project te bekijken. Je kunt de achtergronden slepen om ze op een andere plek te zetten.
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![De achtergronden op volgorde in het tabblad Achtergronden.](images/backdrops-in-order.png)
 
 Er zijn veel manieren om naar de `volgende achtergrond`{:class="block3looks"} te gaan. Kies er een die bij jouw project past.
 
