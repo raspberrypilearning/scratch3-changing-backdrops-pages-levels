@@ -1,13 +1,13 @@
-There are lots of ways to switch to the next backdrop in Scratch
+Existem muitas maneiras para passar para o próximo cenário no Scratch
 
-Click on the Stage
+Clique no palco
 
-Click the space bar (or just click the stage again if you are on a tablet)
+Clique na barra de espaço (ou apenas clique no palco novamente se você estiver em um tablet)
 
-Click on a sprite (the corner)
+Clique em um ator (no canto)
 
-Just wait and the backdrop will change
+Apenas espere e o cenário irá mudar
 
-How will you make the backdrop change?
+Como você vai fazer para que o cenário mude?
 
-Click on a sprite
+Clique em um ator
