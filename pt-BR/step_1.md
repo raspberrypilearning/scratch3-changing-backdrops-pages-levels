@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Você pode usar cenários em um projeto Scratch para criar diferentes páginas ou níveis.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Tutorial de alteração do cenário**: [Veja dentro de](https://scratch.mit.edu/projects/498966268/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+Clique no painel palco e, em seguida, na aba **Cenários** para visualizar os cenários para o seu projeto. Você pode arrastar os cenários para reordená-los.
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![Cenários em ordem na aba Cenários.](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+Existem várias maneiras de ir para o próximo cenário ``{: class = "block3looks"}. Escolha um que funciona em seu projeto.
 
 ```blocks3
 when [space v] key pressed
