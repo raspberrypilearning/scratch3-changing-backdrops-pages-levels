@@ -9,7 +9,7 @@ Clique no painel palco e, em seguida, na aba **Cenários** para visualizar os ce
 
 ![Cenários em ordem na aba Cenários.](images/backdrops-in-order.png)
 
-Existem várias maneiras de ir para o próximo cenário ``{: class = "block3looks"}. Escolha um que funciona em seu projeto.
+Existem várias maneiras de ir para o `próximo cenário`{:class="block3looks"}. Escolha um que funciona em seu projeto.
 
 ```blocks3
 when [space v] key pressed
