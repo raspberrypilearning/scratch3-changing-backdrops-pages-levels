@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Puedes utilizar fondos en un proyecto Scratch para crear diferentes páginas o niveles.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Tutorial para cambiar el fondo**: [Ver dentro](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+Haz clic en el panel Escenario y luego en la pestaña **Fondos** para ver los fondos de tu proyecto. Puedes arrastrar los fondos para reordenarlos.
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![Los fondos en orden en la pestaña Fondos.](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+Hay muchas formas de pasar al `siguiente fondo`{:class="block3looks"}. Elige una que funcione para tu proyecto.
 
 ```blocks3
 when [space v] key pressed
