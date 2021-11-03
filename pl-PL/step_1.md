@@ -1,6 +1,6 @@
 Możesz używać teł w projekcie Scratch, aby tworzyć różne strony lub poziomy.
 
-**Samouczek zmiany tła**: [Zajrzyj do środka](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Samouczek zmiany tła**: [Zajrzyj do środka](https://scratch.mit.edu/projects/594921015/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/594921015/?autostart=false" frameborder="0"></iframe>
 </div>
