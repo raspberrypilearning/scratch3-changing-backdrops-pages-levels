@@ -1,13 +1,13 @@
-There are lots of ways to switch to the next backdrop in Scratch
+Mae yna lawer o ffyrdd i newid i'r gefnlen nesaf yn Scratch
 
-Click on the Stage
+Clicia ar y Llwyfan
 
-Click the space bar (or just click the stage again if you are on a tablet)
+Clicia y bylchwr (neu glicio ar y llwyfan eto os wyt ti ar dabled)
 
-Click on a sprite (the corner)
+Cliciar ar gorlun (y gornel)
 
-Just wait and the backdrop will change
+Arhosa a bydd y gefnlen yn newid
 
-How will you make the backdrop change?
+Sut fyddi di'n gwneud i'r gefnlen newid?
 
-Click on a sprite
+Clicia ar gorlun
