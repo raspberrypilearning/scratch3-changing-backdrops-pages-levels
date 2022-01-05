@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Galli di ddefnyddio ceflenni mewn prosiect Scratch i greu gwahanol dudalennau neu lefelau.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Tiwtorial newid cefnlenni**: [Gweld tu mewn](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+Clicia ar gwarel y Llwyfan ac yna ar y **Cefnlenni** i weld cefnlenni dy brosiect. Galli di lusgo'r cefnlenni i'w hail-drefnu.
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![Y cefnlenni mewn trefn yn y tab Cefnlenni.](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+Mae yna lawer o ffyrdd i symud i'r `gefnlen nesaf`{:class="block3looks"}. Dewisa un sy'n gweithio i dy brosiect.
 
 ```blocks3
 when [space v] key pressed
