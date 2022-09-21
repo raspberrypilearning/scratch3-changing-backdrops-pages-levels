@@ -11,3 +11,5 @@ Wacht even en de achtergrond zal veranderen
 Hoe kun je de achtergrond veranderen?
 
 Klik op een sprite
+
+page1
