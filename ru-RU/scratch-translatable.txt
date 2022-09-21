@@ -11,3 +11,5 @@ Just wait and the backdrop will change
 How will you make the backdrop change?
 
 Click on a sprite
+
+page1
