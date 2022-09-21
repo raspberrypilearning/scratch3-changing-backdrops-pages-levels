@@ -11,3 +11,5 @@ Poczekaj, a tło się zmieni
 Co zrobisz, żeby zmienić tło?
 
 Kliknij na duszka
+
+page1
