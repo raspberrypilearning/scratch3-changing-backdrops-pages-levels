@@ -11,3 +11,5 @@ Solo espera y el fondo cambiará
 ¿Cómo harás que cambie el fondo?
 
 Haz clic en un objeto
+
+page1
