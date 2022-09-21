@@ -11,3 +11,5 @@ Apenas espere e o cenário irá mudar
 Como você vai fazer para que o cenário mude?
 
 Clique em um ator
+
+page1
