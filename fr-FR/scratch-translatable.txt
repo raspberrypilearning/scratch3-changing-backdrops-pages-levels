@@ -11,3 +11,5 @@ Attends juste et l'arrière-plan changera
 Comment vas-tu changer l'arrière-plan ?
 
 Clique sur un sprite
+
+page1
