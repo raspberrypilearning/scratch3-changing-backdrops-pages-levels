@@ -1,15 +1,15 @@
-There are lots of ways to switch to the next backdrop in Scratch
+У Scratch є багато способів переходу на наступне тло
 
-Click on the Stage
+Натисни «Сцена»
 
-Click the space bar (or just click the stage again if you are on a tablet)
+Натисни клавішу пробіл (або просто натисни «Сцена» ще раз, якщо ти працюєш з планшета)
 
-Click on a sprite (the corner)
+Натисни на спрайт (в кутку)
 
-Just wait and the backdrop will change
+Почекай, і тло зміниться
 
-How will you make the backdrop change?
+Що ти будеш робити, щоб тло змінилося?
 
-Click on a sprite
+Натисни на спрайт
 
-page1
+сторінка1
