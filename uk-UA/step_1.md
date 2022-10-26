@@ -1,15 +1,15 @@
-You can use backdrops in a Scratch project to create different pages or levels.
+Ти можеш використовувати тло у проєкті Scratch для створення різних сторінок або рівнів.
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Туторіал: зміна тла**: [Переглянути код](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+Натисни на панель «Сцена», а потім на вкладку **Тло**, щоб переглянути тла для твого проєкту. Ти можеш перетягувати тла, щоб змінити їх порядок.
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![Тла розташовані послідовно на вкладці «Тло».](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+Є багато способів перейти на `наступне тло`{:class="block3looks"}. Вибери той, який підходить для твого проєкту.
 
 ```blocks3
 when [space v] key pressed
