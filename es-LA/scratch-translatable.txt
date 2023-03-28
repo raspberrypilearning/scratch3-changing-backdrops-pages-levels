@@ -12,4 +12,4 @@ Solo espera y el fondo cambiará
 
 Haz clic en un objeto
 
-page1
+pagina1
