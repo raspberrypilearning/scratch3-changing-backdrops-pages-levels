@@ -1,15 +1,15 @@
-There are lots of ways to switch to the next backdrop in Scratch
+Det finns många sätt att byta till nästa bakgrund i Scratch
 
-Click on the Stage
+Klicka på scenen
 
-Click the space bar (or just click the stage again if you are on a tablet)
+Klicka på mellanslagstangenten (eller klicka bara på scenen igen om du är på en surfplatta)
 
-Click on a sprite (the corner)
+Klicka på en sprajt (hörnet)
 
-Just wait and the backdrop will change
+Vänta bara så ändras bakgrunden
 
-How will you make the backdrop change?
+Hur kommer du att ändra bakgrunden?
 
-Click on a sprite
+Klicka på en sprajt
 
-page1
+sida1
