@@ -1,8 +1,6 @@
 Scratchでは、背景を使ってべつのページやレベルを作ることができます。
-
-**背景の切りかえ方**: [中を見る](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 右の角にある「ステージ」をクリックしてから**背景**タブをクリックすると、プロジェクトに使われている背景を見ることができます。 背景をドラッグするとならべかえることができます。
