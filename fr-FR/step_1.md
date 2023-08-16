@@ -1,8 +1,6 @@
 Tu peux utiliser des arrière-plans dans un projet Scratch pour créer différentes pages ou niveaux.
-
-**Tutoriel sur la modification d'arrière-plan** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498966268/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Clique sur le volet Scène, puis sur l' **arrière-plan** pour afficher les arrière-plans de ton projet. Tu peux faire glisser les arrière-plans pour les réorganiser.
