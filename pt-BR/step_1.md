@@ -1,8 +1,6 @@
 Você pode usar cenários em um projeto Scratch para criar diferentes páginas ou níveis.
-
-**Tutorial de alteração do cenário**: [Veja dentro de](https://scratch.mit.edu/projects/498966268/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Clique no painel palco e, em seguida, na aba **Cenários** para visualizar os cenários para o seu projeto. Você pode arrastar os cenários para reordená-los.
