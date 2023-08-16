@@ -1,8 +1,6 @@
 Puedes utilizar fondos en un proyecto Scratch para crear diferentes páginas o niveles.
-
-**Tutorial para cambiar el fondo**: [Ver dentro](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Haz clic en el panel Escenario y luego en la pestaña **Fondos** para ver los fondos de tu proyecto. Puedes arrastrar los fondos para reordenarlos.
