@@ -1,8 +1,6 @@
 Galli di ddefnyddio ceflenni mewn prosiect Scratch i greu gwahanol dudalennau neu lefelau.
-
-**Tiwtorial newid cefnlenni**: [Gweld tu mewn](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Clicia ar gwarel y Llwyfan ac yna ar y **Cefnlenni** i weld cefnlenni dy brosiect. Galli di lusgo'r cefnlenni i'w hail-drefnu.
