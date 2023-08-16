@@ -1,8 +1,6 @@
 يمكنك استخدام الخلفيات في مشروع سكراتش لإنشاء صفحات أو مستويات مختلفة.
-
-**تغيير البرنامج التعليمي للخلفية**: [انظر في الداخل](https://scratch.mit.edu/projects/498966268/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 انقر فوق جزء المنصة ثم **الخلفيات** لعرض الخلفيات الخاصة بمشروعك. يمكنك سحب الخلفيات لإعادة ترتيبها.
