@@ -1,8 +1,6 @@
 Μπορείς να χρησιμοποιήσεις υπόβαθρα σε ένα έργο Scratch για να δημιουργήσεις διαφορετικές σελίδες ή επίπεδα.
-
-**Οδηγίες αλλαγής υποβάθρου**: [Δες εδώ](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Κάνε κλικ στο παράθυρο Σκηνή και στη συνέχεια στην καρτέλα **Υπόβαθρα** για να δεις τα υπόβαθρα για το έργο σου. Μπορείς να σύρεις τα υπόβαθρα για να τα αναδιατάξεις.
