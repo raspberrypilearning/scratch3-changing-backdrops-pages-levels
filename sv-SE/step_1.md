@@ -1,8 +1,6 @@
 Du kan använda bakgrunder i ett Scratch-projekt för att skapa olika sidor eller nivåer.
-
-**Handledning för att ändra bakgrund**: [Se inuti](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Klicka på scenpanelen och sedan på fliken **Bakgrunder** för att se bakgrunderna till ditt projekt. Du kan dra i bakgrunderna för att ändra ordning på dem.
