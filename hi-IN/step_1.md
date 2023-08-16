@@ -1,15 +1,13 @@
-You can use backdrops in a Scratch project to create different pages or levels.
-
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+आप अलग-अलग पृष्ठ या स्तर बनाने के लिए स्क्रैच प्रोजेक्ट में बैकड्रॉप का उपयोग कर सकते हैं।
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project. You can drag the backdrops to reorder them.
+अपने परियोजना की पृष्ठभूमि देखने के लिए स्टेज पैन पर क्लिक करें और फिर **पृष्ठभूमि** टैब पर क्लिक करें। आप उन्हें पुन: व्यवस्थित करने के लिए पृष्ठभूमि को खींच सकते हैं।
 
-![The backdrops in order in the Backdrops tab.](images/backdrops-in-order.png)
+![पृष्ठभूमि टैब में पृष्ठभूमि क्रम में हैं।](images/backdrops-in-order.png)
 
-There are lots of ways to move to the `next backdrop`{:class="block3looks"}. Choose one that works for your project.
+`अगली पृष्ठभूमि`{:class="block3looks"} पर जाने के कई तरीके हैं। अपनी परियोजना के लिए काम करने वाला एक चुनें।
 
 ```blocks3
 when [space v] key pressed
