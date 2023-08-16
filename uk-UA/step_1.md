@@ -1,8 +1,6 @@
 Ти можеш використовувати тло у проєкті Scratch для створення різних сторінок або рівнів.
-
-**Туторіал: зміна тла**: [Переглянути код](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Натисни на панель «Сцена», а потім на вкладку **Тло**, щоб переглянути тла для твого проєкту. Ти можеш перетягувати тла, щоб змінити їх порядок.
