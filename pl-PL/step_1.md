@@ -10,22 +10,22 @@ Kliknij panel Sceny, a następnie **Tła**, aby wyświetlić tła dla swojego pr
 Istnieje wiele sposobów na przejście do `następnego tła`{:class="block3looks"}. Wybierz taki, który pasuje do Twojego projektu.
 
 ```blocks3
-when [space v] key pressed
-next backdrop
+kiedy klawisz [spacja v] naciśnięty
+następne tło
 ```
 
 ```blocks3
-when stage clicked // click on the Stage
-next backdrop
+kiedy scena kliknięta // kliknij na scenę
+następne tło
 ```
 
 ```blocks3
-when this sprite clicked // click on a sprite
-next backdrop
+kiedy ten duszek kliknięty // kliknij na duszka
+następne tło
 ```
 
 ```blocks3
-when backdrop switches to [page1 v]
-wait [5] seconds
-next backdrop
+kiedy tło zmieni się na [strona1 v]
+czekaj [5] sekund
+następne tło
 ```
