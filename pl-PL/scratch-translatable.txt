@@ -12,4 +12,4 @@ Co zrobisz, żeby zmienić tło?
 
 Kliknij na duszka
 
-page1
+strona1
