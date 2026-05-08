@@ -27,7 +27,7 @@ next backdrop
 ```
 
 ```blocks3
-when backdrop switches to [page1 v]
+when backdrop switches to [１ページ目 v]
 wait [5] seconds
 next backdrop
 ```
